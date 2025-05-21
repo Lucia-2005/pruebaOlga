@@ -3,5 +3,7 @@ public class App {
         System.out.println("ya no soy Olga Garcia Quintana");
         System.out.println("miau miau miau");
         System.out.println("ahra soy Haru!");
+
+        int resta=4-2;
     }
 }
